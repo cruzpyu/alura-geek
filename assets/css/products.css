@@ -1,3 +1,6 @@
+.product {
+    padding-bottom: 4%;
+}
 .products__header__container {
     align-items: center;
     display: flex;

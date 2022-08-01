@@ -2,11 +2,11 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
-    padding: 4% 5%;
+    padding: 3%;
 }
 .header__logo {
-    height: 30px;
-    width: 30%;
+    height: 40px;
+    width: 38%;
 }
 .header__search__input {
     display: none;

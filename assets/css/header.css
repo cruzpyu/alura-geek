@@ -1,0 +1,22 @@
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 4% 5%;
+}
+.header__logo {
+    height: 30px;
+    width: 30%;
+}
+.header__search__input {
+    display: none;
+}
+.header__search {
+    order: 3;
+}
+.header__button {
+    background: #ffffff;
+    border: 1px solid #2a7ae4;
+    color: #2a7ae4;
+    order: 2;
+}
